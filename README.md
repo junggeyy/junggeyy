@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+Checkout my first REACT project deployed on github pages: [TicTacToe](https://junggeyy.github.io/TicTacToe/)
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I'm currently learning Kotlins for Android Development.<br>
 🌱 Working on a collaborated Fullstack Android application.<br>
 ⚡ Fun fact: I can speak 4 different languages & play 4 instruments.<br>
