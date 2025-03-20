@@ -4,6 +4,7 @@ Developer by day, AI enthusiast by night— passionate about finding innovative 
 ## 👨🏽‍💻 About Me:
 🔭 Currently developing a full-stack Stock Analysis Application using Kotlin for Android.<br>
 🚀 Exploring backend technologies and working on building scalable, efficient systems.<br>
+🧠 Learning and experimenting with Deep Learning and Machine Learning principles in Python <br>
 ⚡ Fun fact: I can speak 4 different languages & play 4 instruments.<br>
 
 Check out my works -> [here](https://vickeyghimire.netlify.app/).
