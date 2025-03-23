@@ -1,10 +1,10 @@
 # Hello, I'm Vickey!
-Developer by day, AI enthusiast by night— passionate about finding innovative solutions to complex problems and pushing the boundaries of technology.
+Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
 
 ## 👨🏽‍💻 About Me:
 🔭 Currently developing a full-stack Stock Analysis Application using Kotlin for Android.<br>
-🚀 Exploring backend technologies and working on building scalable, efficient systems.<br>
 🧠 Learning and experimenting with Deep Learning and Machine Learning principles in Python <br>
+🚀 Exploring backend technologies with Django.<br>
 ⚡ Fun fact: I can speak 4 different languages & play 4 instruments.<br>
 
 Check out my works -> [here](https://vickeyghimire.netlify.app/).
