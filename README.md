@@ -2,9 +2,8 @@
 Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
 
 ## 👨🏽‍💻 About Me:
-🔭 Currently developing a full-stack Stock Analysis Application using Kotlin for Android.<br>
+🔭 Developing a full-stack Stock Analysis Application for Android with Kotlin + Django.<br>
 🧠 Learning and experimenting with Deep Learning and Machine Learning principles in Python. <br>
-🚀 Exploring backend technologies with Django.<br>
 ⚡ Fun fact: I can speak 4 different languages & play 4 instruments.<br>
 
 Check out my works -> [here](https://vickeyghimire.netlify.app/).
@@ -23,7 +22,7 @@ Check out my works -> [here](https://vickeyghimire.netlify.app/).
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning and AI:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pands](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-150458?style=for-the-badge&logo=keras&logoColor=white) ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
  
 ### Tools and platforms:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/JupyterNoteBook-013243?style=for-the-badge&logo=jupyter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
