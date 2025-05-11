@@ -2,7 +2,7 @@
 Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
 
 ## 👨🏽‍💻 About Me:
-🔭 Developing a full-stack Stock Analysis Application for Android with Kotlin + Django.<br>
+🔭 Currently building **Collab Buddy**- *shaping the future of collaborative study*.<br>
 🧠 Learning and experimenting with Deep Learning and Machine Learning principles in Python. <br>
 ⚡ Fun fact: I can speak 4 different languages & play 4 instruments.<br>
 
