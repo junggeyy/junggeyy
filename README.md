@@ -1,13 +1,7 @@
 # Hello, I'm Vickey!
 Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
 
-## About Me:
-🔨 Building [***RouteRishi**-- Smarter trips, Zero Hassle!*](https://routerishi.netlify.app/) Your next gen Travel Agent.  <br>
-🔭 Working on **Collab Buddy**- *shaping the future of collaborative study*.<br>
-🧠 Learning and experimenting with Deep Learning and Machine Learning principles in Python. <br>
-⚡ Fun fact: I can speak 4 different languages & play 4 instruments.<br>
-
-Check out my works -> [here](https://vickeyghimire.netlify.app/).
+Know more about me -> [here](https://vickeyghimire.netlify.app/).
 
 
 ## Socials:
