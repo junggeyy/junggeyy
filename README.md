@@ -1,7 +1,7 @@
 # Hello, I'm Vickey!
 Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
 
-Know more about me -> [here](https://vickeyghimire.netlify.app/).
+Know more about me -> [here](https://junggeyy.github.io/).
 
 
 ## Socials:
