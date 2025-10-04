@@ -1,7 +1,7 @@
 # Hello, I'm Vickey!
 Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
 
-Know more about me -> [here]([https://junggeyy.github.io/)](https://junggeyy.github.io/?utm_source=github&utm_medium=hyperlink&utm_campaign=github-profile).
+Know more about me -> [here](https://junggeyy.github.io/?utm_source=github&utm_medium=hyperlink&utm_campaign=github-profile).
 
 
 ## Socials:
