@@ -1,5 +1,5 @@
 # Hello, I'm Vickey!
-Developer by day, AI enthusiast by night— trying to learn how machines learn (and hoping they teach me back)!.
+Software developer with a thing for data. Breaking into Geospatial Science-- interested in applying computational methods to geospatial problems. 
 
 Know more about me -> [here](https://junggeyy.github.io/?utm_source=github&utm_medium=hyperlink&utm_campaign=github-profile).
 
@@ -16,21 +16,22 @@ Know more about me -> [here](https://junggeyy.github.io/?utm_source=github&utm_m
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ML and AI:
+### Geospatial & GIS
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white) ![Shapely](https://img.shields.io/badge/Shapely-0066CC?style=for-the-badge&logo=python&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Data and ML:
  ![PyTorch](https://img.shields.io/badge/Pytorch-FF6C37?style=for-the-badge&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green) ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) ![Jupyter Notebook](https://img.shields.io/badge/JupyterNoteBook-013243?style=for-the-badge&logo=jupyter&logoColor=white) 
  
 ### Development Tools:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 ---
 <div align="center">
 
-  <img height="227" width="404" src="https://media4.giphy.com/media/v1.Y2lkPWZjZGU1NDk1MGZldHM0N3ZyN2pwdDV5cmNzdjVtNG05YmxwbmhndndhNjZwZHJ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oahTyQMo26pqJPuhvv/giphy.gif" alt="Carti GIF">
-
-  <blockquote>
-    <p><i>“Put 'em on the news.”</i> – Carti</p>
-  </blockquote>
+  <img src="https://media.giphy.com/media/orVa44Oav5WoF1LVOE/giphy.gif" width="404" height="227" />
 
 </div>
 <!-- [![](https://visitcount.itsvg.in/api?id=junggeyy&icon=0&color=0)](https://visitcount.itsvg.in) -->
