@@ -31,7 +31,7 @@ Know more about me -> [here](https://junggeyy.github.io/?utm_source=github&utm_m
 ---
 <div align="center">
 
-  <img src="https://media.giphy.com/media/orVa44Oav5WoF1LVOE/giphy.gif" width="404" height="227" />
+  <img src="https://i.imgur.com/HRclz6Y.png" width="404" height="227" />
 
 </div>
 <!-- [![](https://visitcount.itsvg.in/api?id=junggeyy&icon=0&color=0)](https://visitcount.itsvg.in) -->
