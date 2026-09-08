@@ -1,8 +1,8 @@
 # Hello, I'm Vickey!
 
-Geospatial Information Science @ UT Dallas <br>
+Geospatial Information Science @ UT Dallas | CS grad<br>
 
-## Currently Exploring:
+#### Currently Exploring:
 - Computational GIS & spatial data science
 - Geospatial decision-support systems
 - Urban & disaster resilience
